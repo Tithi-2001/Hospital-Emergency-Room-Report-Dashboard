@@ -61,12 +61,5 @@ Hospital management requires a clear and efficient way to:
 - Clean and professional dashboard layout
 - Management-ready reporting format
 
----
 
-## 📷 Dashboard Preview
-![Hospital Emergency Room Dashboard](./dashboard_preview.png)
-
----
-
-## 📂 Project Structure
 
